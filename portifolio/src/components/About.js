@@ -14,8 +14,7 @@ const About = () => {
           <h3>Core Competencies:</h3>
           <ul>
             <li>Software Development</li>
-            <li>Videography & Photography</li>
-            <li>Video Editing</li>
+            <li>IT Solutions</li>
             <li>Social Media Management</li>
             <li>Digital Content Creation</li>
           </ul>
