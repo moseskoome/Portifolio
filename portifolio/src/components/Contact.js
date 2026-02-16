@@ -40,9 +40,9 @@ const Contact = () => {
             <p>Mombasa</p>
           </div>
           <div className="social-links">
-            <a href="#" className="social-link"><i className="fab fa-linkedin"></i></a>
-            <a href="#" className="social-link"><i className="fab fa-github"></i></a>
-            <a href="#" className="social-link"><i className="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/yourprofile" className="social-link" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i className="fab fa-linkedin"></i></a>
+            <a href="https://github.com/yourusername" className="social-link" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i className="fab fa-github"></i></a>
+            <a href="https://instagram.com/yourusername" className="social-link" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i className="fab fa-instagram"></i></a>
           </div>
         </div>
         <form onSubmit={handleSubmit} className="contact-form">
