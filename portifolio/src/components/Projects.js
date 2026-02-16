@@ -10,22 +10,10 @@ const Projects = () => {
       image: "project4.png"
     },
     {
-      title: "Video Production Showcase",
-      description: "Professional video editing and production work",
-      category: "Videography",
-      image: "project3.png"
-    },
-    {
-      title: "Photography Portfolio",
-      description: "Collection of professional photography work",
-      category: "Photography",
-      image: "project2.jpg"
-    },
-    {
       title: "Social Media Management",
       description: "I have managed various social media accounts, creating engaging content and growing audiences.",
       category: "Social Media",
-      image: "project4.png"
+      image: ""
     }
   ];
 
