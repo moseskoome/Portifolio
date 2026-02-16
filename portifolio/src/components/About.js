@@ -8,7 +8,6 @@ const About = () => {
       <div className="about-content">
         <div className="about-text">
           <section id="about">
-  <h2>About Me</h2>
   <p>
     I am a full-stack web developer with a strong foundation in Computer Science and a passion for building efficient, scalable, and user-focused web applications. I specialize in modern front-end and back-end development, creating seamless digital experiences that combine performance, functionality, and clean design.
   </p>
